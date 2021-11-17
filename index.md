@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Setting up this blog as a place to host a build log for
+my MilkCr8 CNC machine.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I'm sure other stuff will slip in too.
