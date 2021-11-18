@@ -2,9 +2,9 @@
 
 Testing image links.
 
-v3
+v4
 
-![Me and N54589](/_images/IMG_1092.jpeg)
+![Me and N54589](/images/IMG_1092.jpeg)
 
 https://github.com/JohnOCFII/johnocfii.github.io/blob/main/_images/IMG_1092.jpeg
 
