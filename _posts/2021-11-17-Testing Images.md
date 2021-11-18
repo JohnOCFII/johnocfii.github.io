@@ -1,5 +1,5 @@
-## Check out my shiny new blog!
+# One less octothorpe
 
-"Testing, 1, 2, 3" -- tap, tap, tap.
+Testing image links.
 
-"Is this thing on?"
+
