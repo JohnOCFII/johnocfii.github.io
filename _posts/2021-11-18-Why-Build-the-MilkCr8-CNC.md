@@ -11,3 +11,5 @@ Thus -- my interest in CNC machining was born.
 ![Adam's MilkCr8 CNC](/assets/images/Adams_MilkCr8.jpg)
 
 _Image graciously borrowed from @adammhaile_
+
+# Blog entry still in progress.  More later.
