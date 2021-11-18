@@ -1,1 +1,1 @@
-This is the README for assests directory.
+This is the README for assets directory.
