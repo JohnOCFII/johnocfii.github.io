@@ -9,3 +9,5 @@ Say...  these parts don't look that difficult to create.  I wonder if _I_ could 
 Thus -- my interest in CNC machining was born.
 
 ![Adam's MilkCr8 CNC](/assets/images/Adams_MilkCr8.jpg)
+
+_Image graciously borrowed from @adammhaile_
