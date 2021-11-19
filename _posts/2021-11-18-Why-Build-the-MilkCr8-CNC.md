@@ -18,4 +18,4 @@ Thus -- my interest in CNC machining was born.
 
 _Image graciously borrowed from @adammhaile_
 
-# Blog entry still in progress.  More later.
+### Blog entry still in progress.  More later.
