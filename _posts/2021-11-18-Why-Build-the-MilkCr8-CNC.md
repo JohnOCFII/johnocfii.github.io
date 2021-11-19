@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Why Build the MilkCr8 CNC"
+description: "First post describing my CNC journey"
+tags: MilkCr8 CNC
+---
 ## Why Build the MilkCr8 CNC?
 
 It all started with quadcopters.  
