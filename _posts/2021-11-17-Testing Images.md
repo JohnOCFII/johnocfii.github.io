@@ -9,6 +9,7 @@ tags: Miscellaneous
 Testing image links.
 
 ![Me and N54589](/assets/images/IMG_1092.jpeg)
+![Mississippi River](/assets/images/IMG_1094.jpeg)
 
 
-[Link to this image](https://github.com/JohnOCFII/johnocfii.github.io/blob/main/assets/images/IMG_1092.jpeg){:target="_blank"}
+[Link to first image](https://github.com/JohnOCFII/johnocfii.github.io/blob/main/assets/images/IMG_1092.jpeg){:target="_blank"}
