@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Why Build the MilkCr8 CNC"
+title: "Why Build a MilkCr8 CNC"
 description: "First post describing my CNC journey"
 tags: MilkCr8 CNC
 ---
-## Why Build the MilkCr8 CNC?
+## Why Build a MilkCr8 CNC?
 
 It all started with quadcopters.  
 
@@ -14,8 +14,15 @@ Say...  these parts don't look that difficult to create.  I wonder if _I_ could 
 
 Thus -- my interest in CNC machining was born.
 
+The first machine that really caught my eye was the PrintNC.  https://wiki.printnc.info/en/home
+The PrintNC was exiting to me because it was **rigid** and easy to build with no fancy tools.  The community around the PrintNC was healthy and growing.  Unfortunately, it turns out the PrintNC was really too large for my space, so I kept looking.  A few months later I found out that Joe from MakersOnTap Podcast was designing a smaller, enclosed CNC.  I followed his progress through multiple revisions.  He was also aware of the PrintNC and some of the movement areas are very similar.  The MilkCr8 was something I could see myself building.  I could also see it fitting into my basement. :) 
+
+Joe set out to design a rigid machine that could cleanly cut aluminum.  He also designed the MilkCr8 to be easily built, using some 3D printed components that could be upgraded to aluminum (machined on the MilkCr8 itself) once the machine was built!  True RepRap fashion!
+
+So -- once the BOM was set -- I started planning my parts orders.  
+
+To be continued...
+
 ![Adam's MilkCr8 CNC](/assets/images/Adams_MilkCr8.jpg)
 
 _Image graciously borrowed from @adammhaile_
-
-### Blog entry still in progress.  More later.
