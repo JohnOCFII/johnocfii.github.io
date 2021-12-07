@@ -14,8 +14,9 @@ Say...  these parts don't look that difficult to create.  I wonder if _I_ could 
 
 Thus -- my interest in CNC machining was born.
 
-The first machine that really caught my eye was the PrintNC.  https://wiki.printnc.info/en/home
-The PrintNC was exiting to me because it was **rigid** and easy to build with no fancy tools.  The community around the PrintNC was healthy and growing.  Unfortunately, it turns out the PrintNC was really too large for my space, so I kept looking.  A few months later I found out that Joe from MakersOnTap Podcast was designing a smaller, enclosed CNC.  I followed his progress through multiple revisions.  He was also aware of the PrintNC and some of the movement areas are very similar.  The MilkCr8 was something I could see myself building.  I could also see it fitting into my basement. :) 
+The first machine that really caught my eye was the [PrintNC](https://wiki.printnc.info/en/home)
+
+The PrintNC was exciting to me because it was **rigid** and easy to build with no fancy tools.  The community around the PrintNC was healthy and growing.  Unfortunately, it turns out the PrintNC was really too large for my space, so I kept looking.  A few months later I found out that Joe from [MakersOnTap Podcast](https://www.makersontap.com) was designing a smaller, enclosed CNC.  I followed his progress through multiple revisions.  He was also aware of the PrintNC and some of the movement areas are very similar.  The [MilkCr8](https://milkcr8cnc.com) was something I could see myself building.  I could also see it fitting into my basement. :) 
 
 Joe set out to design a rigid machine that could cleanly cut aluminum.  He also designed the MilkCr8 to be easily built, using some 3D printed components that could be upgraded to aluminum (machined on the MilkCr8 itself) once the machine was built!  True RepRap fashion!
 
