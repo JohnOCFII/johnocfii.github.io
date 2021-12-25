@@ -27,7 +27,7 @@ Also shown is the aluminum bed material, and "spare" aluminum which -- if I'm su
 
 ![MilkCr8 Controller](/assets/images/OpenBuildsControl.jpeg)
 
-- Next are the router coller (which I bought from Amazon - again a point out from Joe) as well as the rest of my OpenBuilds order.  I already had the recommended Meanwell power supply (which I realize now is not show) but I did purchase the nice power button/cable arrangement from OpenBuilds.
+- Next are the router collar (which I bought from Amazon - again a point out from Joe) as well as the rest of my OpenBuilds order.  I already had the recommended Meanwell power supply (which I realize now is not show) but I did purchase the nice power button/cable arrangement from OpenBuilds.
 
 ![MilkCr8 Misc](/assets/images/RouterCollar_OpenBuildsMisc.jpeg)
 
@@ -35,7 +35,7 @@ Also shown is the aluminum bed material, and "spare" aluminum which -- if I'm su
 
 ![MilkCr8 Rails](/assets/images/LinearGuides_Leadscrews.jpeg)
 
-- Up next are the motors and Z integrated leadscrew.  The originally spec'd X and Y motors were out of stock, so (again, hit tip to Joe) these motors from Printed Solid seem to fit the requirements. I see the threaded rods also make an appearance in this photo.
+- Up next are the motors and Z integrated leadscrew.  The originally spec'd X and Y motors were out of stock, so (again, hat tip to Joe) these motors from Printed Solid seem to fit the requirements. I see the threaded rods also make an appearance in this photo.
 
 ![MilkCr8 Motors](/assets/images/XY_Z_Motors.jpeg)
 
