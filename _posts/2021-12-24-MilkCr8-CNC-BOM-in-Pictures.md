@@ -17,7 +17,13 @@ I could buckle down, finish cleaning the basement, set up my new workbench, and 
 
 Also shown is the aluminum bed material, and "spare" aluminum which -- if I'm successful, can be cut on the MilkCr8 to make key components for the Z-axis, replacing the originally 3D printed pieces.
 
-![MilkCr8 CNC steel](/assets/images/MilkCr8_Metal.jpeg)
+![MilkCr8 CNC metal](/assets/images/MilkCr8_Metal.jpeg)
+
+- Shown below is the router.  The BOM shows the OpenBuilds RoutER11, which was out of stock when I was orderings stuff, so Joe pointed me at the Carbide ER-11 Compact router, which is really the same thing.  The description was a bit unclear about what, exactly was in the box, so this shows all the accessories.
+
+![MilkCr8 RoutER11](/assets/images/RoutER11.jpeg)
+
+
 
 
 "More Coming Soon..."
