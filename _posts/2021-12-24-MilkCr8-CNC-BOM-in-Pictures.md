@@ -44,8 +44,3 @@ Also shown is the aluminum bed material, and "spare" aluminum which -- if I'm su
 ![MilkCr8 Hardware](/assets/images/MilkCr8_Hardware.jpeg)
 
 And -- that's it (as far as I know -- other than endstops...).  I'm sure I'll get photos of the printed parts as I make them.  If you have questions, please let me know!
-
-
-
-
-"More Coming Soon..."
