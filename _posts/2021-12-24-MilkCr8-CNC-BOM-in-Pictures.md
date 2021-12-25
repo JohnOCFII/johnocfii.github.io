@@ -39,6 +39,12 @@ Also shown is the aluminum bed material, and "spare" aluminum which -- if I'm su
 
 ![MilkCr8 Motors](/assets/images/XY_Z_Motors.jpeg)
 
+- Finally - I show the hardware orders from McMaster and Bolt Depot.  While I probably had much of the M3 hardware available from previous orders, you can never have too much M3 hardware!
+
+![MilkCr8 Hardware](/assets/images/MilkCr8_Hardware.jpeg)
+
+And -- that's it (as far as I know -- other than endstops...).  I'm sure I'll get photos of the printed parts as I make them.  If you have questions, please let me know!
+
 
 
 
