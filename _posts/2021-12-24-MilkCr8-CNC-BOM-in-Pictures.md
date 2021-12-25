@@ -13,6 +13,11 @@ I could buckle down, finish cleaning the basement, set up my new workbench, and 
 
 ![MilkCr8 CNC frame](/assets/images/MilkCr8Case.jpeg)
 
+- Next up are the steel and aluminum components.  The steel makes up the X and Y axes of the machine.  My steel arrived a bit too long, so I used my angle grinder with grinding wheel to trim them to the proper length.  In the six weeks I had the steel in my basement, I started to pick up some surface rust, so I once again turned to the angle grinder with a different abrasive disc to remove the rust and prepare the steel for cleaning and painting with Rust-oleum.  The steel is shown with the linear rail alignment jigs.
+
+Also shown is the aluminum bed material, and "spare" aluminum which -- if I'm successful, can be cut on the MilkCr8 to make key components for the Z-axis, replacing the originally 3D printed pieces.
+
+![MilkCr8 CNC steel](/assets/images/MilkCr8_Metal.jpeg)
 
 
 "More Coming Soon..."
