@@ -23,6 +23,13 @@ Also shown is the aluminum bed material, and "spare" aluminum which -- if I'm su
 
 ![MilkCr8 RoutER11](/assets/images/RoutER11.jpeg)
 
+- Up next is the OpenBuilds CNC Controller
+
+![MilkCr8 Controller](/assets/images/OpenBuildsControl.jpeg)
+
+- Next are the router coller (which I bought from Amazon - again a point out from Joe) as well as the rest of my OpenBuilds order.  I already had the recommended Meanwell power supply (which I realize now is not show) but I did purchase the nice power button/cable arrangement from OpenBuilds.
+
+![MilkCr8 Controller](/assets/images/RouterCollar_OpenBuildsMisc.jpeg)
 
 
 
