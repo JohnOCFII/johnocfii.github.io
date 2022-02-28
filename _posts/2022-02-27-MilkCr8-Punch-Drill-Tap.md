@@ -15,7 +15,7 @@ One of the first steps after preparing your steel is to attach the linear rails.
 - Use the jigs to align the rails on the steel
 - Use a transfer punch and the punch jig to mark the center of each of the holes in the linear rail
 - Remove the linear rail from the steel and use a center punch to increase the size of each mark from the transfer punch.  The goal of this step is to make a small divot so that when drilling, the drill stays in the planned hole, and doesn't slide around the steel, which could move the hole to a place where it can't be used.
-- ## PAUSED HERE ##
+- ## To Be Continued... ##
 - 
 - Use 
 - Joe was kind enough to sell me one of his CNC cut frames.  He also included the acrylic door, which I just realized isn't in the picture.  It is clear acrylic, so you can just pretend it is in the shot.  I've sprayed the frame with multiple coats of clear Polyurethane spray.
