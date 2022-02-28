@@ -1,11 +1,9 @@
-
 ---
 layout: post
 title: "MilkCr8 Steel: Punch, Drill, and Tap"
 description: "Slow, tedious, yet critical steps towards a well-built machine"
 tags: MilkCr8 CNC
 ---
-
 ## Why Steel?
 
 I _finally_ finished cleaning and organizing the basement! That let me set up my new workbench and get started building the MilkCr8.
