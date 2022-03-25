@@ -18,5 +18,10 @@ One of the first steps after preparing your steel is to attach the linear rails.
 
 One question that came up was whether I really needed to prepare ALL the holes.  The suggestion was to drill and tap all the holes, because in the end, not all the holes would be lined up perfectly.  "They" were right.  
 
+![MilkCr8 CNC frame](/assets/images/MurderScene.jpeg)
+
+
+- ## To Be Continued... ##
+
 
 
