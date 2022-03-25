@@ -22,11 +22,5 @@ I also sprayed the wood frame (the MilkCr8) with acrylic as well.  I left these 
 
 This was the last work I'd do for 10 weeks until I got the basement cleaned!
 
-One of the first steps after preparing your steel is to attach the linear rails.  Before you can bolt the rails into the steel, you need to have a place for the bolts to go!  
-
-- Use the jigs to align the rails on the steel
-- Use a transfer punch and the punch jig to mark the center of each of the holes in the linear rail
-- Remove the linear rail from the steel and use a center punch to increase the size of each mark from the transfer punch.  The goal of this step is to make a small divot so that when drilling, the drill stays in the planned hole, and doesn't slide around the steel, which could move the hole to a place where it can't be used.
-- 
 - ## To Be Continued... ##
 
