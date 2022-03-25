@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "MilkCr8 Steel: Punch, Drill, and Tap"
-description: "Slow, tedious, yet critical steps towards a well-built machine"
+title: "MilkCr8 Steel: Preparation"
+description: "Rust never sleeps"
 tags: MilkCr8 CNC
 ---
 ## Why Steel?
