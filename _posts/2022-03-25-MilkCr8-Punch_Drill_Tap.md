@@ -33,8 +33,11 @@ At this point, I was only halfway done with the punching, drilling and tapping!
 
 ![MilkCr8 CNC frame](/assets/images/DragonSteel.jpeg)
 
+While all this punching, drilling, and tapping was happening, I was also printing all the 3D printed parts for the MilkCr8.  I used CF-PETG and CF-PC+ for the structural components, and PETG for the non-structural components.  I used 4 perimeters for my structural parts, most with 0.30 layer height.
 
-- ## To Be Continued... ##
+![MilkCr8 CNC frame](/assets/images/Parts1.jpeg)
+
+
 
 
 
