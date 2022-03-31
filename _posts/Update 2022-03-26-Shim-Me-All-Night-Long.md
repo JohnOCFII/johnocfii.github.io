@@ -13,7 +13,7 @@ With the X-steel, two linear rails are installed parallel to each other.  The ra
 
 ![MilkCr8 CNC frame](/assets/images/Tilt1.jpeg)
 
-Lucky for me, I had this issue, which allowed me to **purchase new tools!**.  A few days later, I was confirming the tilt with a new dial test indicator.  
+Lucky for me, I had this issue, which allowed me to **purchase new tools!**  A few days later, I was confirming the tilt with a new dial test indicator.  
 
 ![MilkCr8 CNC frame](/assets/images/DialTest.jpeg)
 
