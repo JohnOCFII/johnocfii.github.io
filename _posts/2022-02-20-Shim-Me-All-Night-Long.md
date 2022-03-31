@@ -21,6 +21,7 @@ The resolution to this issue, in the best tradition of home-backed solutions, is
 
 ![MilkCr8 CNC frame](/assets/images/Shim1.jpeg)
 
-- ## To Be Continued... ##
+Thankfully, the Y-rails don't suffer from the same leaning issue.  Attaching the linear rails and carriages to the Y-rails was as straightforward as I had hoped.
+
 
 
