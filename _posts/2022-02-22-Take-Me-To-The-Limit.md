@@ -14,6 +14,6 @@ Thankfully, my trusty angle grinder and cutoff wheel was able to make quick work
 
 One angle I wanted to show was the back-side of the XZ-plate with the X-leadnut attached.  This was a bit unclear to me in the assembly guide, so here is that photo.
 
-![MilkCr8 CNC frame](/assets/images/XZ-plate.jpeg)
+![MilkCr8 CNC frame](/assets/images/XZ-Plate.jpeg)
 
 ## To Be Continued... ##
