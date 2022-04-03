@@ -21,6 +21,3 @@ After cutting to the proper length, I decided to paint the steel for protection 
 I also sprayed the wood frame (the MilkCr8) with acrylic as well.  I left these to dry in the garage for two weeks before moving them into the house.
 
 This was the last work I'd do for 10 weeks until I got the basement cleaned!
-
-- ## To Be Continued... ##
-
