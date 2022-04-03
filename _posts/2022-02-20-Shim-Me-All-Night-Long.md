@@ -17,7 +17,7 @@ Lucky for me, I had this issue, which allowed me to **purchase new tools!**  A f
 
 ![MilkCr8 CNC frame](/assets/images/DialTest.jpeg)
 
-The resolution to this issue, in the best tradition of home-backed solutions, is to shim the low side of the linear rail.  The Snitty-approved method involves creating thin strips of aluminum from a can of soda, beer, or water, and placing one or two (or whatever it takes) under one side of the rail to bring it up to level.  Amazingly, it worked quite well!
+The resolution to this issue, in the best tradition of home-baked solutions, is to shim the low side of the linear rail.  The Snitty-approved method involves creating thin strips of aluminum from a can of soda, beer, or water, and placing one or two (or whatever it takes) under one side of the rail to bring it up to level.  Amazingly, it worked quite well!
 
 ![MilkCr8 CNC frame](/assets/images/Shim1.jpeg)
 
