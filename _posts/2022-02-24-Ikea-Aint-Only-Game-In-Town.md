@@ -25,4 +25,4 @@ When it came time to install the X-axis, it seemed folks were having some diffic
 
 ![MilkCr8 CNC frame](/assets/images/Y-Assembly1.jpeg)
 
-## To Be Continued... ##
+Next up - leadscrew to stepper motor assembly - but we'll leave that to the next entry.
