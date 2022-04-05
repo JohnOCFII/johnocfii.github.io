@@ -26,4 +26,4 @@ At this point, I also wired and installed the X and Z limit switches.
 
 ![MilkCr8 CNC frame](/assets/images/Z-LimitSwitch.jpeg)
 
-## To Be Continued... ##
+Next, it was on to crate assembly!
