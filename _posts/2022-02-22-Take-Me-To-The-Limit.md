@@ -12,8 +12,18 @@ Once the XZ plate was attached to the X-axis steel (and moving smoothly) it was 
 
 Thankfully, my trusty angle grinder and cutoff wheel was able to make quick work of that unneeded length.  After cutting off the end, I used the grinding wheel followed by some manual filing to clean out the grooves.
 
+![MilkCr8 CNC frame](/assets/images/Z-Leadscrew.jpeg)
+
+![MilkCr8 CNC frame](/assets/images/Shortened-Z.jpeg)
+
 One angle I wanted to show was the back-side of the XZ-plate with the X-leadnut attached.  This was a bit unclear to me in the assembly guide, so here is that photo.
 
 ![MilkCr8 CNC frame](/assets/images/XZ-Plate.jpeg)
+
+At this point, I also wired and installed the X and Z limit switches.
+
+![MilkCr8 CNC frame](/assets/images/X-LimitSwitch.jpeg)
+
+![MilkCr8 CNC frame](/assets/images/Z-LimitSwitch.jpeg)
 
 ## To Be Continued... ##
