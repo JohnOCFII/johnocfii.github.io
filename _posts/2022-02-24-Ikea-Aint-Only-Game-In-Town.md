@@ -15,6 +15,14 @@ Now that I had some of the internals figured out, it was time to find a place to
 
 ![MilkCr8 CNC frame](/assets/images/Crate-3.jpeg)
 
-When it came time to install the X-axis, it seemed folks were having some difficulties getting the threaded rod into place.  I decided to first thread the rods through the X-steel and printed ends.  I then stacked some stuff to the correct height, and pushed the rods through the righe side of the crate.  After that, I attached the left side of the crate.  Easy as pie.
+When it came time to install the X-axis, it seemed folks were having some difficulties getting the threaded rod into place.  I decided to first thread the rods through the X-steel and printed ends.  I then stacked some stuff to the correct height, and pushed the rods through the righe side of the crate.  After that, I attached the left side of the crate.  Easy as pie. 
+
+![MilkCr8 CNC frame](/assets/images/X-Assembly1.jpeg)
+
+![MilkCr8 CNC frame](/assets/images/X-Assembly2.jpeg)
+
+ Y-assembly into the crate was similar.
+
+![MilkCr8 CNC frame](/assets/images/Y-Assembly1.jpeg)
 
 ## To Be Continued... ##
