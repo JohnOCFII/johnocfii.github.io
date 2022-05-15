@@ -24,4 +24,5 @@ Leadscrew installed - Y-axis:
 Front view at this stage of assembly:
 
 ![MilkCr8 CNC frame](/assets/images/Leadscrews-installed-front.jpeg)
-## This post is still being written...
+
+Next step:  The bed!
