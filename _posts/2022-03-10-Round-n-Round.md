@@ -12,4 +12,13 @@ After the X and Y axis steel assemblies were installed into the wooden MilkC8 cr
 
 ![MilkCr8 CNC frame](/assets/images/Leadscrew-assembled.jpeg)
 
+Leadscrew installed - X-axis.  While the leadscrew nut mount is present, I waited until later to install the actual nut so i could easily move things around during assembly.
+
+![MilkCr8 CNC frame](/assets/images/Leadscrew-installed-side.jpeg)
+
+
+Leadscrew installed - Y-axis:
+
+![MilkCr8 CNC frame](/assets/images/Leadscrew-installed-rear.jpeg)
+
 ## This post is still being written...
