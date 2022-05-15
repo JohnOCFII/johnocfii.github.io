@@ -21,4 +21,7 @@ Leadscrew installed - Y-axis:
 
 ![MilkCr8 CNC frame](/assets/images/Leadscrew-installed-rear.jpeg)
 
+Front view at this stage of assembly:
+
+![MilkCr8 CNC frame](/assets/images/Leadscrew-installed-front.jpeg)
 ## This post is still being written...
