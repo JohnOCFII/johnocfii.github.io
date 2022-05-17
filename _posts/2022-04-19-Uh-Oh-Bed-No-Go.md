@@ -14,5 +14,8 @@ Turns out, after I screwed in the carriages on the left Y-axis rail, none of the
 
 ![MilkCr8 CNC frame](/assets/images/Rail_Swap.jpeg)
 
+So, after much "forced skill acquisition" the bed was drilled and successfully installed into my MilkCr8!
 
-## This blog entry still under constuction
+![MilkCr8 CNC frame](/assets/images/Bed_Installed.jpeg)
+
+Next stop:  Electronics!
