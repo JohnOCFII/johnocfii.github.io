@@ -24,6 +24,19 @@ I brought along a spare linear rail carriage to check my measurements and test m
 
 ![MilkCr8 CNC frame](/assets/images/drill_practice.jpeg)
 
+Finally, it was time to drill the bed.
+
+![MilkCr8 CNC frame](/assets/images/DrillingBed.jpeg)
+
+The actual drilling was pretty straightforward.  Find the spot, clamp the aluminum, add a drop of TapMagic, and lower the drill.  Sadly, all three of the mis-punched holes caused me issues.  I had hoped the clamped aluminum would allow the drill press to drill on the marked spot, but the _slightly off center-punched holes_ attracted the drill bit.  I ended up having to user a larger bit to drill out these 3 holes -- one of them, pretty substantially.
+
+As I went around the bed, I test-fit the carriage at each of the four locations.
+
+![MilkCr8 CNC frame](/assets/images/CarriageTestFit.jpeg)
+
+After that, time to clean up the shop and head home.  I did wonder later why the back of my left hand was all scratched up -- looked like a cat got after it.  Then I remembered the bits of aluminum coming off the drill bit would often hit my hand as it came off the spinning drill bit.  
+
+
 
 
 ## This blog entry still under constuction
