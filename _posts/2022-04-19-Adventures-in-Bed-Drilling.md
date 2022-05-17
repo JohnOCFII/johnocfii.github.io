@@ -20,6 +20,8 @@ Given the criticality of straight, well-aligned holes, I decided I needed to enl
 
 My buddy Bob had a spare piece of aluminum for me to use to get the feel for the drill press.  It also allowed me to practice setting maximum depths for using the countersink bit.  It turned out, I had the drill press running too slowly, so we had to move belts to increase RPM for cleaner cuts.
 
+I brought along a spare linear rail carriage to check my measurements and test my results.
+
 ![MilkCr8 CNC frame](/assets/images/drill_practice.jpeg)
 
 
