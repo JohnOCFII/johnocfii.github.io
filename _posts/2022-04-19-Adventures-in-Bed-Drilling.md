@@ -35,5 +35,3 @@ As I went around the bed, I test-fit the carriage at each of the four locations.
 ![MilkCr8 CNC frame](/assets/images/CarriageTestFit.jpeg)
 
 After that, time to clean up the shop and head home.  I did wonder later why the back of my left hand was all scratched up -- looked like a cat got after it.  Then I remembered the bits of aluminum coming off the drill bit would often hit my hand as it came off the spinning drill bit.  
-
-## This blog entry still under constuction
