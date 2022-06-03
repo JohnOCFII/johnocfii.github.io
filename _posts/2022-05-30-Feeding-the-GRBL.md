@@ -18,6 +18,7 @@ OpenBuilds CONTROL is an Electron Application, and can run on a variety of opera
 
 The Openbuilds documentation is really quite good.  They've also got some good YouTube videos (such as this LEAD 1515 video - start at the 47:39 mark [Link to Lead 1515 Video](https://www.youtube.com/watch?v=xxyA5WftF8k&list=PLDeI80MYQtboqJDGEPY0yR_Exh91XI95-&index=6) that walk you through the software configuration and initial movement tests.  Fellow MilkCr8 builder Adam provided me his GRBL config, but initially, you'll want to turn off the soft limits and manually home and figure out your own max X, Y, and Z distances before you re-enable soft limits.
 
-Feel free to use my current config as a starting point: ![MilkCr8 GRBL Config]([/assets/code/grbl-settings-backup-custom-2022-06-02.txt)
+Feel free to use my current config as a starting point: 
+![MilkCr8 GRBL Config](/assets/code/grbl-settings-backup-custom-2022-06-02.txt)
 
 ## This blog entry still under constuction
