@@ -13,6 +13,10 @@ All our hopes and dreams are converted to GCODE.  There are many different ways 
 https://software.openbuilds.com
 
 
-![MilkCr8 CNC frame](/assets/images/OpenBuildsCONTROL.png)
+![MilkCr8 CNC software](/assets/images/OpenBuildsCONTROL.png)
+
+The Openbuilds documentation is really quite good.  They've also got some good YouTube videos (look at their Lead 1010 videos) that walk you through the software configuration and initial movement tests.  Fellow MilkCr8 builder Adam provided me his GRBL config, but initially, you'll want to turn off the soft limits and manually home and figure out your own max X, Y, and Z distances before you re-enable soft limits.
+
+
 
 ## This blog entry still under constuction
