@@ -22,3 +22,4 @@ Feel free to use my current config as a starting point:
 ![MilkCr8 GRBL Config](/assets/code/grbl-settings-backup-custom-2022-06-02.txt)
 
 ## This blog entry still under constuction
+
