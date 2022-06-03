@@ -10,7 +10,9 @@ Remember, the whole point of this journey is to be able to get a machine to do w
 
 All our hopes and dreams are converted to GCODE.  There are many different ways to get GCODE from your CAM software to your machine.  Our MilkCr8 designer Joe suggested the OpenBuilds BlackBox controller, and while no one would mistake the BlackBox for the "latest hotness" here in 2022, it is an excellent choice for a project just as the MilkCr8.  It is well documented, proven, and comes with really decent software to control the machine called OpenBuilds CONTROL.  
 
-https://software.openbuilds.com
+
+
+[Link to OB CONTROL]([https://github.com/JohnOCFII/johnocfii.github.io/blob/main/assets/images/IMG_1092.jpeg](https://software.openbuilds.com)
 
 
 ![MilkCr8 CNC software](/assets/images/OpenBuildsCONTROL.png)
