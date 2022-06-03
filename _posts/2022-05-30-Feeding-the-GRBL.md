@@ -23,7 +23,4 @@ Feel free to use my current config as a starting point:
 
 [Link to First Moves] (https://www.youtube.com/watch?v=V7bCi2WGBGM)
 
-So - what's next?  Spoilboard installation, and dust/chip extraction, and finally, first cuts!
-
-## This blog entry still under constuction
-
+So - what's next?  Spoilboard installation, and dust/chip extraction, learning CAM, and finally, first cuts!
