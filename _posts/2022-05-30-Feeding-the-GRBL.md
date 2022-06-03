@@ -21,5 +21,7 @@ The Openbuilds documentation is really quite good.  They've also got some good Y
 Feel free to use my current config as a starting point: 
 ![MilkCr8 GRBL Config](/assets/code/grbl-settings-backup-custom-2022-06-02.txt)
 
+Fail 1?
+
 ## This blog entry still under constuction
 
