@@ -13,6 +13,6 @@ All our hopes and dreams are converted to GCODE.  There are many different ways 
 https://software.openbuilds.com
 
 
-![MilkCr8 CNC frame](/assets/images/X-axis.jpeg)
+![MilkCr8 CNC frame](/assets/images/OpenBuildsCONTROL.png)
 
 ## This blog entry still under constuction
