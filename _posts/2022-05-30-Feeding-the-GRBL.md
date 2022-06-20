@@ -21,6 +21,6 @@ The Openbuilds documentation is really quite good.  They've also got some good Y
 Feel free to use my current config as a starting point: 
 [MilkCr8 GRBL Config](/assets/code/grbl-settings-backup-custom-2022-06-02.txt)
 
-[Link to First Moves](https://www.youtube.com/watch?v=V7bCi2WGBGM)
+[Link to First Moves Video](https://www.youtube.com/watch?v=V7bCi2WGBGM)
 
 So - what's next?  Spoilboard installation, and dust/chip extraction, learning CAM, and finally, first cuts!
