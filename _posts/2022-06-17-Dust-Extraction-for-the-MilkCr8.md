@@ -12,7 +12,9 @@ CNC milling is a subtractive process.  A cutting device removes material from a 
 
 ![MilkCr8 Dust Extraction](/assets/images/VacuumHose.jpeg)
 
-Following the lead of @DreadMakerAdam, I purchased a Sweepy 2.0 from Carbide3D. https://shop.carbide3d.com/collections/accessories/products/sweepy-2-0-dust-boot?variant=32975720972349
+Following the lead of @DreadMakerAdam, I purchased a Sweepy 2.0 from Carbide3D. 
+
+[Sweepy](https://shop.carbide3d.com/collections/accessories/products/sweepy-2-0-dust-boot?variant=32975720972349)
 
 While there are all sorts of 3D printed options, this kit was clean and simple, and got high marks from Adam amd others.
 
