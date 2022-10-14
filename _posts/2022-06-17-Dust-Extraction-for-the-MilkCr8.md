@@ -23,7 +23,3 @@ The hose fits through the MilkCr8 handle opening, which was slick, in that I did
 The other end of the hose conveniently fit the inlet of my ShopVac.
 
 In addition to the house, I also added some weatherstripping around the door to help keep chips (and noise) inside the MilkCr8.  The dust/chips extraction works incredibly well, with the only downside that viewing the cutting action is a bit limited.
-
-
-
-## This entry under construction...
