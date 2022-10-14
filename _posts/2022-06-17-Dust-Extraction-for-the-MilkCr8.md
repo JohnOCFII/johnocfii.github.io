@@ -18,6 +18,12 @@ While there are all sorts of 3D printed options, this kit was clean and simple, 
 
 For a hose, I purchased this 10 foot 1-3/16" O.D. hose.  [Fulton Hose Kit](https://www.amazon.com/gp/product/B01M27BN5Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1).
 
+The hose fits through the MilkCr8 handle opening, which was slick, in that I didn't have to cut an additional hole in the case.  The hose _did_ need an adapter to fit the Sweepy, but that was quick work in CAD and on my RailCore 3D printer.
+
+The other end of the hose conveniently fit the inlet of my ShopVac.
+
+In addition to the house, I also added some weatherstripping around the door to help keep chips (and noise) inside the MilkCr8.  The dust/chips extraction works incredibly well, with the only downside that viewing the cutting action is a bit limited.
+
 
 
 ## This entry under construction...
