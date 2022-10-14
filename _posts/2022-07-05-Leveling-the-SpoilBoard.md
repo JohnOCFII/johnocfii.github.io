@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Leveling the SpoilBoard"
-description: "Leveling the SpoilBoard"
+description: "Installing and Leveling the SpoilBoard"
 tags: MilkCr8 CNC
 ---
-## Leveling the SpoilBoard
+## Installing and Leveling the SpoilBoard
 
- A cutting device removes material from a piece of stock to reveal the intended object.  The cutting is not a quiet process.  Along with noise, the removal process creates sawdust, or chips of the removed material.  Unless you want your MilkCr8 to be full of chips and/or sawdust all the time, it's best to setup a system to remove sawdust/chips as you are machining.
+The MilkCr8 CNC uses an aluminum bed on the Y-Axis.  While you could machine directly on the bed, there is value in installing a sacrificial surface on top of that bed.  A common term for that surface is **spoilboard.**. I installed an MDF spoilboard using painters tape and CA glue.  In addition to having a surface that you can machine into, the spoilboard also gives you a chance to level the spoilboard surface to match that of the router/spindle as it travels across the X-axis.
 
 ![MilkCr8 Dust Extraction](/assets/images/VacuumHose.jpeg)
 
