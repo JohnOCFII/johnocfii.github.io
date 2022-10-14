@@ -16,4 +16,8 @@ Following the lead of @DreadMakerAdam, I purchased a [Sweepy 2.0](https://shop.c
 
 While there are all sorts of 3D printed options, this kit was clean and simple, and got high marks from Adam amd others.
 
+For a hose, I purchased this 10 foot 1-3/16" O.D. hose.  [Fulton Hose Kit](https://www.amazon.com/gp/product/B01M27BN5Y/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1).
+
+
+
 ## This entry under construction...
