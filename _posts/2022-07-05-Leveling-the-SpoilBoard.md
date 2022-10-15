@@ -16,7 +16,7 @@ In addition to having a surface that you can machine into, the spoilboard also g
 
 In the future, I plan to create a spoilboard that has embedded nuts to allow different methods of workholding to hold stock to the spoilboard.
 
-![SurfacingVideo](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
+[SurfacingVideo](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
 
 
 ## This entry under construction...
