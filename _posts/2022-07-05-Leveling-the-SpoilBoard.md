@@ -10,13 +10,15 @@ The MilkCr8 CNC uses an aluminum bed on the Y-Axis.  While you could machine dir
 
 ![MilkCr8 BlueTapeBed](/assets/images/BlueTapedBed.jpeg)
 
-In addition to having a surface that you can machine into, the spoilboard also gives you a chance to level the spoilboard surface to match that of the router/spindle as it travels across the X-axis.
+In the future, I plan to create a spoilboard that has embedded nuts to allow different methods of workholding to hold stock to the spoilboard.
+
+
 
 ![MilkCr8 SpoilBoard](/assets/images/ClampedSpoilBoard.jpeg)
 
-In the future, I plan to create a spoilboard that has embedded nuts to allow different methods of workholding to hold stock to the spoilboard.
 
-[SurfacingVideo](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
+
+In addition to having a surface that you can machine into, the spoilboard also gives you a chance to level the spoilboard surface to match that of the router/spindle as it travels across the X-axis. [Take a look at my first attempt at surfacing the spoilboard.](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
 
 
 ## This entry under construction...
