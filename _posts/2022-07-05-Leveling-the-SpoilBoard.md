@@ -1,24 +1,17 @@
 ---
 layout: post
-title: "Leveling the SpoilBoard"
-description: "Installing and Leveling the SpoilBoard"
+title: "Installing the SpoilBoard"
+description: "Installing the SpoilBoard"
 tags: MilkCr8 CNC
 ---
-## Installing and Leveling the SpoilBoard
+## Installing the SpoilBoard
 
 The MilkCr8 CNC uses an aluminum bed on the Y-Axis.  While you could machine directly on the bed, there is value in installing a sacrificial surface on top of that bed.  A common term for that surface is **spoilboard**. I installed an MDF spoilboard using painters tape and CA glue.
 
 ![MilkCr8 BlueTapeBed](/assets/images/BlueTapedBed.jpeg)
 
-In the future, I plan to create a spoilboard that has embedded nuts to allow different methods of workholding to hold stock to the spoilboard.
-
-
+In the future, I plan to create a spoilboard that has embedded threaded nuts to allow different methods of workholding to hold stock to the spoilboard.
 
 ![MilkCr8 SpoilBoard](/assets/images/ClampedSpoilBoard.jpeg)
 
 
-
-In addition to having a surface that you can machine into, the spoilboard also gives you a chance to level the spoilboard surface to match that of the router/spindle as it travels across the X-axis. [Take a look at my first attempt at surfacing the spoilboard.](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
-
-
-## This entry under construction...
