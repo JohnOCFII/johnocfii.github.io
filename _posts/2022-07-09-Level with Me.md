@@ -16,7 +16,7 @@ In the future, I plan to create a spoilboard that has embedded threaded nuts to 
 
 ![MilkCr8 SurfacingEndmill](/assets/images/SurfacingEndmill.jpeg)
 
-Here is my first attempt at leveling the spoilboard surface to match that of the router/spindle as it travels across the X-axis. [Take a look at my first attempt at surfacing the spoilboard.](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
+Here is my first attempt at leveling the spoilboard surface to match that of the router/spindle as it travels across the X-axis. [Take a look](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
 
 
 ## This entry under construction...
