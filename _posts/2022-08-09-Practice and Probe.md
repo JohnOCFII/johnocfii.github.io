@@ -17,7 +17,7 @@ I'm an airplane pilot. One common tool we use all the times is a checklist.  Old
 
 And that is for a simple operation.  Changing tools, or flipping a workpiece requires even more steps.  Get one wrong, and you might be starting over.
 
-I decided to purchase an XYZ Touch Probe to help with accurate setting of X, Y, and Z.  I bought the [OpenBuilds XYZ Touch Probe] (https://openbuildspartstore.com/xyz-touch-probe-plus/) It does what it claims to do, but it works best on large flat pieces of stock.  Here's a photo of a nifty 3D printed mount: 
+I decided to purchase an XYZ Touch Probe to help with accurate setting of X, Y, and Z.  I bought the [OpenBuilds XYZ Touch Probe] (https://openbuildspartstore.com/xyz-touch-probe-plus/) It does what it claims to do, but it works best on large flat pieces of stock.  Here's a photo of the XYZ probe in a nifty 3D printed mount: ![XYZ Touch Probe](/assets/images/XYZ_Probe.jpeg)
 
 
 ## This entry under construction...
