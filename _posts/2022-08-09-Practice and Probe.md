@@ -28,7 +28,3 @@ My initial practice consisted of cuts representative of what I'd evenually need 
 
 ![Practice Boring, Contours and Chamfers](/assets/images/CNC_Practice.jpeg)
 
-
-
-
-## This entry under construction...
