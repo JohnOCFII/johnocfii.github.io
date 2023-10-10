@@ -16,10 +16,7 @@ In the future, I plan to create a spoilboard that has embedded threaded nuts to 
 
 ![MilkCr8 SurfacingEndmill](/assets/images/SurfacingEndmill.jpeg)
 
-Here is my first attempt at leveling the spoilboard surface to match that of the router/spindle as it travels across the X-axis. [Take a look](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
+Here is my first attempt at leveling the spoilboard surface to match that of the router/spindle as it travels across the X-axis. 
+[Take a look](https://www.youtube.com/watch?v=tOZxpa2BZhc&list=PLhMXIiLibnbp4SLJ8DhmovAqKUHYMR0pg)
 
-I used a 1" / 25.4mm surfacing endmill.  It made quick work of the MDF.  The first pass helps determine if your router requires an adjustment and shimming to cut a smooth, flat surface.  I required very minimal adjustments.  I won't go into details, as there are many good example videos on YouTube.  Here's an updated version of one video that helped me understand the process: (https://www.youtube.com/watch?v=ohSOkthOolg)
-
-## This entry under construction...
-
-
+I used a 1" / 25.4mm surfacing endmill.  It made quick work of the MDF.  The first pass helps determine if your router requires an adjustment and shimming to cut a smooth, flat surface.  I required very minimal adjustments.  I won't go into details, as there are many good example videos on YouTube.  Here's an updated version of one video that helped me understand the process: [James Dean Tramming](https://www.youtube.com/watch?v=ohSOkthOolg)
