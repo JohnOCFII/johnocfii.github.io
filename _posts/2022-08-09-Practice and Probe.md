@@ -6,11 +6,11 @@ tags: MilkCr8 CNC
 ---
 ## Adding an XYZ Probe
 
-Once the MilkCr8 was substantially built, the obvious question is -- what's next?  For me, that meant starting the journey to replace the 3D printed parts of the motion system with parts machined from 6061 aluminum -- parts that I'd machine myself ON THE MILKCr8!  How cool is that?  RepRap Spirit lives!
+Once the MilkCr8 was substantially built, the obvious question is -- what's next?  For me, that meant starting the journey to replace the 3D printed parts of the motion system with parts machined from 6061 aluminum -- parts that I'd machine myself ON THE MilkCr8!  How cool is that?  RepRap Spirit lives!
 
-I'm an airplane pilot. One common tool we use all the times is a checklist.  Old timers often look at newer pilots and mutter under their breath, "What do you need _that_ for -- just kick the tires and light the fire!"  It wouldn't surprise me if long-time machinists have the same point of view.  To me as a rank beginner, I was crying out for a checklist!  There are **so many things** to remember, even _after_ the design is complete, and tool paths have been generated.  You need to:
+I'm an airplane pilot. One common tool we use all the times is a checklist.  Old timers often look at newer pilots and mutter under their breath, "What do you need _that_ for -- just kick the tires and light the fire!"  It wouldn't surprise me if long-time machinists have the same point of view.  To me as a rank beginner, I was crying out for a checklist!  There are **so many things** to remember, even _after_ the design is complete and tool paths have been generated.  You need to:
 
-- Mount the Stock
+- Mount the stock
 - Install the collet
 - Install the end mill
 - Confirm the starting position in X, Y, and Z
